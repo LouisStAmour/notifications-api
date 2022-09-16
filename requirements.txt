@@ -60,7 +60,7 @@ importlib-metadata==1.6.0
 Jinja2==2.11.2
 jmespath==0.9.5
 kombu==3.0.37
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 mistune==0.8.4
 monotonic==1.5
